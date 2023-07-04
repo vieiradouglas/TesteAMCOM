@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ibcyhNcrL1BFgerzCxyujMYpw35sVgUq1K6PLm7vGsCFK5eqr1YQadDAIbuu/NkAITLFsm2z61JOcsPXbCPTbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Douglas\\Desktop\\AMCOM\\Questao2\\Questao2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Douglas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Douglas\Desktop\TESTE AMCOM\Questao2\bin\Debug\net6.0\Questao2.exe
+C:\Users\Douglas\Desktop\TESTE AMCOM\Questao2\bin\Debug\net6.0\Questao2.deps.json
+C:\Users\Douglas\Desktop\TESTE AMCOM\Questao2\bin\Debug\net6.0\Questao2.runtimeconfig.json
+C:\Users\Douglas\Desktop\TESTE AMCOM\Questao2\bin\Debug\net6.0\Questao2.dll
+C:\Users\Douglas\Desktop\TESTE AMCOM\Questao2\bin\Debug\net6.0\ref\Questao2.dll
+C:\Users\Douglas\Desktop\TESTE AMCOM\Questao2\bin\Debug\net6.0\Questao2.pdb
+C:\Users\Douglas\Desktop\TESTE AMCOM\Questao2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Douglas\Desktop\TESTE AMCOM\Questao2\obj\Debug\net6.0\Questao2.csproj.AssemblyReference.cache
+C:\Users\Douglas\Desktop\TESTE AMCOM\Questao2\obj\Debug\net6.0\Questao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\Desktop\TESTE AMCOM\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\TESTE AMCOM\Questao2\obj\Debug\net6.0\Questao2.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\TESTE AMCOM\Questao2\obj\Debug\net6.0\Questao2.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\TESTE AMCOM\Questao2\obj\Debug\net6.0\Questao2.csproj.CopyComplete
+C:\Users\Douglas\Desktop\TESTE AMCOM\Questao2\obj\Debug\net6.0\Questao2.dll
+C:\Users\Douglas\Desktop\TESTE AMCOM\Questao2\obj\Debug\net6.0\ref\Questao2.dll
+C:\Users\Douglas\Desktop\TESTE AMCOM\Questao2\obj\Debug\net6.0\Questao2.pdb
+C:\Users\Douglas\Desktop\TESTE AMCOM\Questao2\obj\Debug\net6.0\Questao2.genruntimeconfig.cache
